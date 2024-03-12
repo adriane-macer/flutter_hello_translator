@@ -1,6 +1,7 @@
 # Flutter Hello Translator
 
-Translate hello in different languages
+Translate hello in different languages.
+This implements the localization.
 
 ![20240311_185658](https://github.com/adriane-macer/flutter_hello_translator/assets/25916444/14b09330-510f-4c3f-ad72-e1d0e3b12372)
 
